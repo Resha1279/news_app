@@ -1,0 +1,2 @@
+export const ON_BOOKMARKED = 'ON_BOOKMARK';
+export const ON_REMOVE_BOOKMARK = 'ON_REMOVE_BOOKMARK';

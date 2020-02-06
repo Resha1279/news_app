@@ -1,0 +1,137 @@
+{
+  "bottom_tab": {
+    "home": "Home",
+    "feeds": "Feeds",
+    "FeedCategory": "Feeds",
+    "epapers": "Epapers",
+    "library": "Library",
+    "portals": "Portals"
+  },
+  "routes": {
+    "Home": "Home ne",
+    "Feeds": "Feeds",
+    "FeedCategory": "Feeds",
+    "Library": "Library",
+    "Portals": "Portals",
+    "PortalsCategories":"Portals"
+  },
+  "feeds": {
+    "entertainment": "Entertainment",
+    "business": "Business",
+    "politics": "Politics"
+  },
+  "feeds_category":{
+    "entertainment":"Entertainment ne",
+    "politics": "Politics ne",
+    "health": "Health ne",
+    "business": "Business ne"
+  },
+  "portals_category":{
+    "general":"General",
+    "english" : "English",
+    "business": "Business"
+  },
+  "library": {
+    "downloads": "Downloads",
+    "bookmarks": "Bookmarks"
+  },
+  "extras": {
+    "empty": "No content to display",
+    "retry": "Retry",
+    "about" : "About Us Ne",
+    "license":"License",
+    "please_refresh":"New data available.Please refresh !"
+  },
+  "settings": {
+    "title": "Settings ne",
+    "app_info": {
+      "license_info": {
+        "title": "License Info",
+        "desc": "Attribution for the content used from various sources."
+      },
+      "about_us": {
+        "title": "About Our Team",
+        "desc": "Get to know the awesome members of the team who contributed for the product."
+      },
+      "rate": {
+        "title": "Rate us",
+        "desc": "Rate our app so that we feel motivated to bring out more awesome features."
+      },
+      "version": {
+        "title": "Version",
+        "desc": "1.1"
+      }
+    },
+    "caption": {
+      "app_settings": "App Settings",
+      "tts_settings": "Text-to-Speech",
+      "app_info": "App Info"
+    },
+    "language": {
+      "title": "App Language",
+      "desc": "Choose the preferred language for the app."
+    },
+    "image_load_on_data": {
+      "title": "Image load on cellular data",
+      "desc": "Whether to load images while on cellular data. This options helps you reduce data usage."
+    },
+    "cellular_data_image_load_desc": "To optimize data usage, image load is turned off during cellular data. _np",
+    "image_load_on_cellular_data_button": "Turn",
+    "view_this_image": "View Image",
+    "tts": "TTS",
+    "test_voice": "Test Voice",
+    "test_voice_desc": "Test Voice_desc",
+    "tts_rate": "Voice Speed",
+    "tts_rate_desc": "Voice Speed_desc",
+    "install_engine": "Install or Update Engine",
+    "install_engine_desc": "Install or Update Engine_desc",
+    "download_language": "Download Nepali Language",
+    "download_language_desc": "Download Nepali Language_desc",
+    "test_text": "खबर सन्जालमा यहाँहरुलाइ स्वागत छ । "
+  },
+  "empty_screen": {
+    "feeds": {
+      "caption": "content ne",
+      "desc": "content desc"
+    },
+    "bookmark": {
+      "caption": "content",
+      "desc": "content desc"
+    },
+    "download": {
+      "caption": "content",
+      "desc": "content desc"
+    },
+    "favourite": {
+      "caption": "content",
+      "desc": "content desc"
+    }
+  },
+  "switch_lang": "Switch Language ne",
+  "button_labels": {
+    "article_exit_button": "Exit",
+    "feed_detail_visit_site": "Visit Site",
+    "share":"Share"
+  },
+  "product_info": {
+    "title": "Khabar Sanjal",
+    "desc": "A QbitsX Product"
+  },
+  "invite_friend_modal": {
+    "header": "साथीलार्इ सुझाव",
+    "description": "Your friend will be directed to playstore through the following link :",
+    "copy_to_clipboard_button": "क्लिपबाेर्डमा कपि गर्नुहोस्",
+    "cancel_button": "रद्द गर्नुहोस्",
+    "send_invite_button": "SEND INVITE",
+    "share_message": "Enjoy reading news from different sources right in one place",
+    "copied_to_clipboard_message": "क्लिपबाेर्डमा कपि भयाे"
+  },
+  "view_switch_modal": {
+    "header": "Choose View",
+    "cancel_button": "CANCEL"
+  },
+  "toast": {
+    "item_bookmarked": "Bookmarked",
+    "item_removed_from_bookmarked":"Removed from bookmark"
+  }
+}
